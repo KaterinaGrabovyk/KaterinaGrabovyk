@@ -14,9 +14,7 @@
 <h2>Studying</h2>
  <p>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png?size=48" width="30px"></p>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png?size=48" width="30px"></p>
-  
- <!--<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?size=48" width="30px">-->
+   <!--<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png?size=48" width="30px"></p><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?size=48" width="30px">-->
 </p>
 <!---
 KaterinaGrabovyk/KaterinaGrabovyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
