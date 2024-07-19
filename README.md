@@ -8,7 +8,7 @@
 <p>👩‍🎓 and study more to improve my skills</p>
 <br>
 <h2>My skills</h2>
-<p> WEB DEVELOPMENT
+<p> <h3>WEB DEVELOPMENT</h3>
  <ul>
   <li><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" width="30px"></li>
   <li><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?size=48" width="30px"></li>
@@ -16,7 +16,8 @@
   <!--<li><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png?size=48" width="30px"></li>-->
  </ul>
 </p>
-<p><img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png?size=48" width="30px">#  
+<p><h3>Other</h3>
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27153%2Fc-sharp-c&psig=AOvVaw2G9lzZ0ybfQdfC_dSuMrZY&ust=1721473737340000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDow8f7socDFQAAAAAdAAAAABAE" width="30px">  
 <img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png?size=48" width="30px">
 </p>
 <h2>Studying</h2>
