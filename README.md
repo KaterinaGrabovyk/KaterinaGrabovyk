@@ -17,7 +17,7 @@
  </ul>
 </p>
 <p><h3>Other</h3>
- <img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fuk.wikipedia.org%2Fwiki%2F%25D0%25A4%25D0%25B0%25D0%25B9%25D0%25BB%3ACsharp_Logo.png&psig=AOvVaw2G9lzZ0ybfQdfC_dSuMrZY&ust=1721473737340000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDow8f7socDFQAAAAAdAAAAABAJ" width="30px">  
+ <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="30px">  
 <img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png?size=48" width="30px">
 </p>
 <h2>Studying</h2>
