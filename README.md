@@ -12,16 +12,24 @@
  <ul>
   <li><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" width="30px"></li>
   <li><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?size=48" width="30px"></li>
-  <li><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=48" width="30px"></li>
+  <li><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png?size=48" width="30px"></li>
   <!--<li><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png?size=48" width="30px"></li>-->
  </ul>
 </p>
 <p><h3>Other</h3>
- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="50px">  
-<img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png?size=48" width="30px">
+ <ul>
+  <li><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="50px">  </li>
+  <li><img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png?size=48" width="30px"></li>
+  <!--<li><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png?size=48" width="30px"></li>-->
+ </ul>
+
 </p>
 <br>
 <h2>STUDYING</h2>
+<ul>
+  <li><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=48" width="30px"></li>
+  <!--<li><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png?size=48" width="30px"></li>-->
+ </ul>
  <p>
    <!--<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png?size=48" width="30px"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?size=48" width="30px">-->
 </p>
