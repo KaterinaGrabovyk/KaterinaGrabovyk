@@ -44,6 +44,23 @@
 | -------------------------------------------------------------------------------------------- | :------------------: |
 | https://istu.edu.ua/ Bachelour degree of 121"software engineering"                           | 09/2022  -  0*/2026  |
 | https://www.udemy.com/course/the-complete-web-development-bootcamp/ Web Developer course     | 07/2024 - **         |
+ <hr>
+### My Statistic
+
+<p>
+<a href="https://github.com/KaterinaGrabovyk/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KaterinaGrabovyk&show_icons=true&theme=yeblu&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="[https://github.com/anuraghazra/convoychat](https://github.com/KaterinaGrabovyk/github-readme-stats)">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaterinaGrabovyk&theme=yeblu&layout=donut&langs_count=8&card_width=320" />
+</a>
+</p>
+<hr>
+
+### Best works
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KaterinaGrabovyk&repo=Kursova&theme=yeblu)](https://github.com/KaterinaGrabovyk/Kursova)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KaterinaGrabovyk&repo=CAPSTONE-PROJECT-2&theme=yeblu)](https://github.com/KaterinaGrabovyk/CAPSTONE-PROJECT-2)
 
 <!---
 KaterinaGrabovyk/KaterinaGrabovyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
