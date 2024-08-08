@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I’m Katy</h1>
 <hr>
 
-## About me:
+### About me:
+
 <p>I`ve started programming while studying in ISTU, Ukraine. In 2023 I made my Github profile to upload my works. I`ve became interested in Web Development, so in 2024 I started online course on Udemy. 
 </p>
 <p>I like
@@ -12,9 +13,15 @@
 - 👩‍💻 coding
 <p>👩‍🎓 and study more to improve my skills</p>
 </p>
+
+### Contact me:
+[![Static Badge](https://img.shields.io/badge/Gmail-mail?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=black&color=%23BD332D)](ekaterina.grabovik@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Discord-d?style=for-the-badge&logo=discord&logoColor=%235865F2&logoSize=auto&labelColor=black&color=blue)](love.death.gooses)
+
+
 <hr>
 
-## Technologies I can use
+### Technologies I can use
 <p>
  <img src="https://github.com/git.png?size=40" width="40px">&nbsp;
  <img src="https://camo.githubusercontent.com/f2ce4039c99cf35adde738583ab0fbcd60eaafccf1e949884bda91d0b5c819ce/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" width="40px">&nbsp;
@@ -25,14 +32,14 @@
 </p>
 <hr>
 
-## Tools I can use
+### Tools I can use
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/290px-Visual_Studio_Icon_2022.svg.png" width="40px">&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" width="40px">&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" width="40px">&nbsp;
 </p>
 <hr>
 
-## My Education
+### My Education
 | Course                                                                                       | Dates                |
 | -------------------------------------------------------------------------------------------- | :------------------: |
 | https://istu.edu.ua/ Bachelour degree of 121"software engineering"                           | 09/2022  -  0*/2026  |
