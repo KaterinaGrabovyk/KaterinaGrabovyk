@@ -48,6 +48,7 @@
  
 ### My Statistic
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=KaterinaGrabovyk&theme=algolia)](https://github.com/KaterinaGrabovyk/github-profile-trophy)
 <p>
 <a href="https://github.com/KaterinaGrabovyk/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KaterinaGrabovyk&show_icons=true&theme=yeblu&layout=compact&langs_count=8&card_width=320" />
