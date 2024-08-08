@@ -45,6 +45,7 @@
 | https://istu.edu.ua/ Bachelour degree of 121"software engineering"                           | 09/2022  -  0*/2026  |
 | https://www.udemy.com/course/the-complete-web-development-bootcamp/ Web Developer course     | 07/2024 - **         |
  <hr>
+ 
 ### My Statistic
 
 <p>
