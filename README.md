@@ -15,28 +15,28 @@
 </p>
 
 ### Contact me:
-<p>
+
 <a href="mailto:ekaterina.grabovik@gmail.com">
  
 ![Static Badge](https://img.shields.io/badge/Gmail-mail?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=black&color=%23BD332D)
 
 </a>
+
 <a href="mailto:discord:love.death.gooses">
  
 ![Static Badge](https://img.shields.io/badge/Discord-d?style=for-the-badge&logo=discord&logoColor=%235865F2&logoSize=auto&labelColor=black&color=blue)
 
 </a>
 
-<a href="https://t.me/share/url?url={url_to_share}&text={caption_text}&to={phone_number}">
+<a href="https://t.me/share/url?url={@Common_goose}&text={My NickName}">
  
-![Static Badge](https://img.shields.io/badge/Discord-d?style=for-the-badge&logo=discord&logoColor=%235865F2&logoSize=auto&labelColor=black&color=blue)
+![Static Badge](https://img.shields.io/badge/Telegram-phone?style=for-the-badge&logo=telegram&logoColor=%2326A5E4&labelColor=black&color=%2327E7A1)
 
 </a>
-</p>
+
+
 <hr>
- <a href="https://t.me/share/url?url=http://amirreza.in&text=Find me here!">
-    Share Me
-  </a>
+
 ### Technologies I can use
 <p>
  <img src="https://github.com/git.png?size=40" width="40px">&nbsp;
