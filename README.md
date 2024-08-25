@@ -42,9 +42,11 @@
  <img src="https://github.com/git.png?size=40" width="40px">&nbsp;
  <img src="https://camo.githubusercontent.com/f2ce4039c99cf35adde738583ab0fbcd60eaafccf1e949884bda91d0b5c819ce/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" width="40px">&nbsp;
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?size=48" width="50px">&nbsp;
+  <img src="https://github.com/user-attachments/assets/605f83d1-40c9-43bb-89a9-940fb3650948" width="50px">&nbsp;
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png?size=48" width="40px">&nbsp;
  <img src="https://github.com/user-attachments/assets/bc394d3b-aa45-4da0-99e3-6590051eb112" width="40px"> &nbsp;
  <img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png?size=48" width="35px">&nbsp;
+
 </p>
 <hr>
 
