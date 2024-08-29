@@ -81,7 +81,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KaterinaGrabovyk&repo=Kursova&theme=yeblu)](https://github.com/KaterinaGrabovyk/Kursova)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KaterinaGrabovyk&repo=CAPSTONE-PROJECT-2&theme=yeblu)](https://github.com/KaterinaGrabovyk/CAPSTONE-PROJECT-2)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KaterinaGrabovyk&repo=data-into-percentage&theme=yeblu)](https://github.com/KaterinaGrabovyk/data-into-percentage)
 <!---
 KaterinaGrabovyk/KaterinaGrabovyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
