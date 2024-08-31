@@ -7,10 +7,11 @@
 </p>
 <p>I like
  <br>
-- 📖 reading
-- 🎧 listening musin
-- 🎮 playing games
 - 👩‍💻 coding
+- 📖 reading
+- 🎮 playing games
+- 🎧 listening musin
+
 <p>👩‍🎓 and study more to improve my skills</p>
 </p>
 
