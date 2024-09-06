@@ -47,6 +47,7 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png?size=48" width="40px">&nbsp;
   <img src="https://w7.pngwing.com/pngs/720/46/png-transparent-jquery-plain-wordmark-logo-icon-thumbnail.png" width="35px">&nbsp;
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png?size=48" width="40px"> &nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png?size=48" width="40px"> &nbsp;
  <img src="https://github.com/user-attachments/assets/bc394d3b-aa45-4da0-99e3-6590051eb112" width="40px"> &nbsp;
  <img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png?size=48" width="35px">&nbsp;
 </p>
@@ -56,6 +57,7 @@
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/290px-Visual_Studio_Icon_2022.svg.png" width="40px">&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" width="40px">&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" width="40px">&nbsp;
+ <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40px">&nbsp;
 </p>
 <hr>
 
