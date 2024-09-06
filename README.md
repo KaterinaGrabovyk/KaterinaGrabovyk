@@ -46,6 +46,7 @@
   <img src="https://github.com/user-attachments/assets/605f83d1-40c9-43bb-89a9-940fb3650948" width="50px">&nbsp;
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png?size=48" width="40px">&nbsp;
   <img src="https://w7.pngwing.com/pngs/720/46/png-transparent-jquery-plain-wordmark-logo-icon-thumbnail.png" width="35px">&nbsp;
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png?size=48" width="40px"> &nbsp;
  <img src="https://github.com/user-attachments/assets/bc394d3b-aa45-4da0-99e3-6590051eb112" width="40px"> &nbsp;
  <img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png?size=48" width="35px">&nbsp;
 </p>
