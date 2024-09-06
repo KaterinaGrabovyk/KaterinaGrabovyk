@@ -79,6 +79,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaterinaGrabovyk&theme=yeblu&layout=donut&langs_count=8&card_width=320" />
 </a>
 </p>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@KatyGrab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
 ### Best works
