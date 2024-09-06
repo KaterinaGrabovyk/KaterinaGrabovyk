@@ -80,7 +80,7 @@
 </a>
 </p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@KatyGrab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@KatyGrab&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
 ### Best works
