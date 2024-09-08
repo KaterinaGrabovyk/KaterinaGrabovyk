@@ -81,7 +81,7 @@
 </a>
 </p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@KatyGrab&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Katy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@KatyGrab&layout=compact&theme=algolia)](https://github.com/KaterinaGrabovyk/github-readme-stats)
 <hr>
 
 ### Best works
