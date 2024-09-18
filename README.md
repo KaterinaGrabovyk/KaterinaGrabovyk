@@ -16,49 +16,47 @@
 </p>
 
 ### Contact me:
-
-<a href="mailto:ekaterina.grabovik@gmail.com">
- 
-![Static Badge](https://img.shields.io/badge/Gmail-mail?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=black&color=%23BD332D)
-
+<a href="https://t.me/Common_goose" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-phone?style=for-the-badge&logo=telegram&logoColor=%2326A5E4&labelColor=black&color=%2327E7A1" height="25" alt="telegram logo"  />
+  </a><a href="mailto:ekaterina.grabovik@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-mail?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=black&color=%23BD332D" height="25" alt="telegram logo"  />
+</a><a href="mailto:discord:love.death.gooses">
+ <img src="https://img.shields.io/badge/Discord-d?style=for-the-badge&logo=discord&logoColor=%235865F2&logoSize=auto&labelColor=black&color=blue" height="25" alt="telegram logo"  />
 </a>
-
-<a href="mailto:discord:love.death.gooses">
- 
-![Static Badge](https://img.shields.io/badge/Discord-d?style=for-the-badge&logo=discord&logoColor=%235865F2&logoSize=auto&labelColor=black&color=blue)
-
-</a>
-
-<a href="https://t.me/share/url?url={@Common_goose}&text={My NickName}">
- 
-![Static Badge](https://img.shields.io/badge/Telegram-phone?style=for-the-badge&logo=telegram&logoColor=%2326A5E4&labelColor=black&color=%2327E7A1)
-
-</a>
-
 
 <hr>
 
+
 ### Technologies I can use
 <p>
- <img src="https://github.com/git.png?size=40" width="40px">&nbsp;
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="47px">&nbsp;
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png?size=48" width="50px">&nbsp;
-  <img src="https://github.com/user-attachments/assets/605f83d1-40c9-43bb-89a9-940fb3650948" width="50px">&nbsp;
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png?size=48" width="40px">&nbsp;
-  <img src="https://w7.pngwing.com/pngs/720/46/png-transparent-jquery-plain-wordmark-logo-icon-thumbnail.png" width="35px">&nbsp;
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png?size=48" width="40px"> &nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png?size=48" width="40px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/7d11ffce-edb1-4e74-b5f8-9a1443e63993" width="40px"> &nbsp;
- <img src="https://github.com/user-attachments/assets/bc394d3b-aa45-4da0-99e3-6590051eb112" width="40px"> &nbsp;
- <img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png?size=48" width="35px">&nbsp;
+ <img src="https://github.com/git.png?size=50" width="50px">&emsp;
+ 
+ <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="Html" height="50" width="50" />
+ <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" alt="CSS" height="50" width="50" /> 
+ <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JS" height="50" width="50" /> &emsp;
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="50"/>&emsp;
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" />                           
+ <img src="https://github.com/user-attachments/assets/7d11ffce-edb1-4e74-b5f8-9a1443e63993" width="50px"> &emsp;
+  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="50px" />
+          
 </p>
 <hr>
 
 ### Tools I can use
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/290px-Visual_Studio_Icon_2022.svg.png" width="40px">&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" width="40px">&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" width="40px">&nbsp;
- <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40px">&nbsp;
+<p>
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" />&ensp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="50" />&ensp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50"  />&ensp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="50"/>&ensp;
+          
 </p>
 <hr>
 
@@ -71,7 +69,8 @@
  
 ### My Statistic
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KaterinaGrabovyk&theme=algolia)](https://github.com/KaterinaGrabovyk/github-profile-trophy)
+<!---[![trophy](https://github-profile-trophy.vercel.app/?username=KaterinaGrabovyk&theme=algolia)](https://github.com/KaterinaGrabovyk/github-profile-trophy)--->
+
 <p>
 <a href="https://github.com/KaterinaGrabovyk/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KaterinaGrabovyk&show_icons=true&theme=yeblu&layout=compact&langs_count=8&card_width=320" />
