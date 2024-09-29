@@ -61,10 +61,11 @@
 <hr>
 
 ### My Education
-| Course                                                                                       | Dates                |
-| -------------------------------------------------------------------------------------------- | :------------------: |
-| https://istu.edu.ua/ Bachelour degree of 121"software engineering"                           | 09/2022  -  0*/2026  |
-| https://www.udemy.com/course/the-complete-web-development-bootcamp/ Web Developer course     | 07/2024 - **         |
+| Course                                                                                                                                | Dates                |
+| ------------------------------------------------------------------------------------------------------------------------------------- | :------------------: |
+| https://istu.edu.ua/ Bachelour degree of 121"software engineering"                                                                    | 09/2022  -  0*/2026  |
+| https://www.udemy.com/course/the-complete-web-development-bootcamp/ Web Developer course                                              | 07/2024 - **         |
+| https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/?couponCode=OF83024E Flutter & Dart - The Complete Guide    | 09/2024 - **         |
  <hr>
  
 ### My Statistic
