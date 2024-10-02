@@ -3,8 +3,6 @@
 
 ### About me:
 
-<p>I`ve started programming while studying in ISTU, Ukraine. In 2023 I made my Github profile to upload my works. I`ve became interested in Web Development, so in 2024 I started online course on Udemy. 
-</p>
 <p>I like
  <br>
 - 👩‍💻 coding
