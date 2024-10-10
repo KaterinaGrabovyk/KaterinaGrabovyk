@@ -88,8 +88,6 @@
 ### Best works 2024
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KaterinaGrabovyk&repo=Kursova&theme=yeblu)](https://github.com/KaterinaGrabovyk/Kursova)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KaterinaGrabovyk&repo=Resume-project&theme=yeblu)](https://github.com/KaterinaGrabovyk/Resume-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KaterinaGrabovyk&repo=Blog-project&theme=yeblu)](https://github.com/KaterinaGrabovyk/Blog-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KaterinaGrabovyk&repo=TV-Shows&theme=yeblu)](https://github.com/KaterinaGrabovyk/TV-Shows)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KaterinaGrabovyk&repo=book-notes&theme=yeblu)](https://github.com/KaterinaGrabovyk/book-notes)
 <!---
