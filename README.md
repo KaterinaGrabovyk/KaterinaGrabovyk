@@ -18,8 +18,6 @@
     <img src="https://img.shields.io/badge/Telegram-phone?style=for-the-badge&logo=telegram&logoColor=%2326A5E4&labelColor=black&color=%2327E7A1" height="25" alt="telegram logo"  />
   </a><a href="mailto:ekaterina.grabovik@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-mail?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=black&color=%23BD332D" height="25" alt="telegram logo"  />
-</a><a href="mailto:discord:love.death.gooses">
- <img src="https://img.shields.io/badge/Discord-d?style=for-the-badge&logo=discord&logoColor=%235865F2&logoSize=auto&labelColor=black&color=blue" height="25" alt="telegram logo"  />
 </a>
 
 <hr>
