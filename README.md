@@ -71,9 +71,6 @@
 <a href="https://github.com/KaterinaGrabovyk/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KaterinaGrabovyk&show_icons=true&theme=yeblu&layout=compact&langs_count=8&card_width=320" />
 </a>
-<a href="[https://github.com/anuraghazra/convoychat](https://github.com/KaterinaGrabovyk/github-readme-stats)">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaterinaGrabovyk&theme=yeblu&layout=donut&langs_count=8&card_width=320" />
-</a>
 </p>
 
 [![Katy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KatyGrab&layout=compact&theme=algolia)](https://wakatime.com/@KatyGrab)
